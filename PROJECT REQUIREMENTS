@@ -1,0 +1,34 @@
+this is to list project requirements and details for the project BrieXLreplace
+this project is in the Education space, located in the state of Florida, in the United States
+customer has 600-750 xl  workbooks with a worksheet with an incorrect spelling in one cell ( this is a MERGED cell)
+xl books are in ONE folder, and are located on the clients google drive 
+Client has worked this with Java script and is trying to design a working script , and has reached a dead end.
+the find and replace will work for ONE workbook and one XL file, on one worksheet.   It will not do multiple sheets
+
+CLIENT EXAMPLE/ ATTEMPT
+
+https://stackoverflow.com/questions/42150450/google-apps-script-for-multiple-find-and-replace-in-google-sheets -- 
+this will look in a SINGLE workbook for a thing, and then replace it .... but it won't search through the whole Drive folder. 
+
+RJW.PYTHON PROJECT
+contacts are Brie Wilkins at 	Ms Wilkins <ms.wilkins@bailesbears.org> 
+and Ron Wilkins at 	Ms Wilkins <ms.wilkins@bailesbears.org> 
+  
+
+So what needs to be done : 
+
+Find the word DEVELOPEMENT and replace with DEVELOPMENT in cell H34:M34 ( it's a merged cell ) on multiple workbooks, 
+all contained within a drive folder ( if you mark 'put folder ID here', I know how to find a folder ID ), 
+
+EXAMPLE OF XL SPREADSHEET
+
+https://docs.google.com/spreadsheets/d/1FGxzNiszKjIR73udRlCqm0ps1A5Tr54w_mRjIeQiB1A/edit?usp=sharing
+
+
+SOLUTION ONE
+use current links to current javascript/google app scripts attempts
+SOLUTION TWO
+use links and info to write python code snippet 
+
+
+
